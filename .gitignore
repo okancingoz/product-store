@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment dosyaları
+.env
+
+# Log dosyaları
+*.log
+
+# OS veya IDE özel
+.DS_Store
+.vscode/
